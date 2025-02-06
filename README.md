@@ -1,2 +1,2 @@
 "# pixiel-game" 
-Demo : pixelgame.exe
+Demo :try/GameProject /pixelgame.exe
