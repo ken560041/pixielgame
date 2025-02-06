@@ -1,2 +1,2 @@
 "# pixiel-game" 
-"# pixielgame" 
+Demo : pixelgame.exe
